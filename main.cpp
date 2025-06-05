@@ -419,7 +419,7 @@ void transfer(User& u) {
     std::cout << "Số dư mới: " << u.balance << " điểm\n";
 }
 
-// ===================== TÍNH NĂNG MỚI =====================
+// ===================== TÍNH NĂNG MỚI ==========================
 void recoverPassword() {
     std::string username, email;
     printHeader("KHÔI PHỤC MẬT KHẨU");
