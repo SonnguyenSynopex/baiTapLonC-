@@ -629,7 +629,7 @@ void create_admin() {
 }
 
 int main() {
-    // Cấu hình console để hiển thị Unicode tiếng Việt
+    // Cấu hình console để hiển thị Unicode
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
     
